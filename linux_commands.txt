@@ -1,0 +1,7 @@
+ls --> lists current directory contents
+cat --> outputs contents of chosen file to the screen (stdout)
+mkdir --> lets you create a new directory
+mv --> used to move a file or directory. Also can be used to rename a file or directory.
+touch --> creates a new file
+vi --> text editor in Linux
+nano --> text editor in linux
