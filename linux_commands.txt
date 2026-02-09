@@ -5,3 +5,4 @@ mv --> used to move a file or directory. Also can be used to rename a file or di
 touch --> creates a new file
 vi --> text editor in Linux
 nano --> text editor in linux
+echo --> outputs to screen (stdout)
