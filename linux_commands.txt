@@ -10,3 +10,4 @@ pwd --> outputs current directory you are located in, to the screen
 top --> display linux processes
 rm --> removes files or directories
 cp --> copies files or directories
+find --> searches for files in a directory
