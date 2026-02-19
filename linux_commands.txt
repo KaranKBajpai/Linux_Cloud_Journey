@@ -8,3 +8,4 @@ nano --> text editor in linux
 echo --> outputs to screen (stdout)
 pwd --> outputs current directory you are located in, to the screen
 top --> display linux processes
+rm --> removes files or directories
